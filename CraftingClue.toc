@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: CraftingClue |cFF00FF00Turtle-WoW|r
+## Author: dandr94
+## Notes: Adds missing reagent information to profession trainers in WoW 1.12. Know exactly what materials are needed for each recipe before you waste a your money.
+## Version: 1.0.0
+
+Libs\LibCrafts-1.0\LibStub.lua
+Libs\LibCrafts-1.0\LibCrafts-1.0.lua
+Core.lua
+UI.lua
+Data.lua
