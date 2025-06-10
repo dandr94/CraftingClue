@@ -7,5 +7,5 @@
 Libs\LibCrafts-1.0\LibStub.lua
 Libs\LibCrafts-1.0\LibCrafts-1.0.lua
 Core.lua
-UI.lua
 Data.lua
+UI.lua
