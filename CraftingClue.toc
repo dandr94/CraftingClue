@@ -6,6 +6,8 @@
 
 Libs\LibCrafts-1.0\LibStub.lua
 Libs\LibCrafts-1.0\LibCrafts-1.0.lua
+Libs\LibCrafts-1.0\Professions\Professions.xml
+Libs\LibCrafts-1.0\Locales\Locales.xml
 Core.lua
 Data.lua
 UI.lua
