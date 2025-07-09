@@ -46,7 +46,7 @@ This means the game needs to cache the item info first, so simply clicking the r
     Certain recipe materials (e.g., Bolt of Silk Cloth) might not show in the reagent list. Even though they exist in LibCrafts, they will show as N/A. This is not yet fixed but affects only a few cases. Doubt it is a bug caused by LibCraft, high chance it is me.
 
 -   **Occasional “Green Recipes” Bug**:
-    Very rarely, all recipes in the trainer window may appear green (as if you can learn them). The cause is unknown and hard to reproduce. Closing and reopening the trainer window usually fixes it.
+    Very rarely, all recipes in the trainer window may appear green (as if you can learn them). The cause is unknown and hard to reproduce. Closing and reopening the trainer window usually fixes it. (UPDATE) - Even with all addons disabled, the issue still occurs. It's probably a UI bug in the game, and the addon might just trigger it more often.
 
 -   **Text Overlap with Cost**:
     Recipes with many or long reagent names may cause the reagent text to overlap with the cost displayed in the UI. The text field is not dynamically sized or repositioned.
